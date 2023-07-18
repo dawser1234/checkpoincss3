@@ -51,13 +51,9 @@
      font-size: 2.2 em;
  }
 }
-.navbar{
-  display: inline-block;
-  margin-left: 400px;
-  
-}
+
 body{
-  background-color: #f80759;
+  /*background-color:#F29492;*/
   font-family: "Roboto";
 }
 #apropos>img{
@@ -97,4 +93,10 @@ button{
   border-radius: 5px;
   
 
+}
+.head{
+background-color: rgb(18, 18, 17)!important;
+}
+#aaa{
+  background-color: #0b8793;
 }
